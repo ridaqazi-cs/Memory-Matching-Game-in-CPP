@@ -20,11 +20,8 @@ Players flip pairs of cards on a grid to find matching values. The fewer attempt
 
 ```
 memory-matching-game/
-├── src/
-│   └── MemoryGame.cpp    # Game source code
-├── .gitignore            # Ignored build artifacts
-├── README.md             # Project overview and instructions
-└── LICENSE               # Project license (e.g. MIT)
+├── MemoryGame.cpp    # Game source code
+├── README.md         # Project overview and instructions
 ```
 
 ---
