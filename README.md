@@ -80,15 +80,3 @@ memory-matching-game/
 6. **Game Summary:** After all rounds, view sorted scores and highest score.
 
 ---
-
-## Screenshot
-
-![Game Screenshot](docs/screenshot.png)
-
-*(Replace `docs/screenshot.png` with your actual screenshot path.)*
-
----
-
-## License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
